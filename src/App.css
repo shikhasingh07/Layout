@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@350&display=swap");
+
+.main-container {
+  height: 100vh;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: "Roboto Slab", serif;
+}
+.containerDIv {
+  height: 380px !important;
+}
+
+.image-holder {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
+.home-container {
+  height: 75vh !important;
+  margin: 0 auto !important;
+  border-radius: 0.5rem !important;
+}
+.profile {
+  border-radius: 0.5rem !important;
+}
+.nav-link {
+  padding: 0.5rem 0 0.5rem 0.25rem !important;
+}
+.b-color:hover {
+  background-color: #e2d9f3;
+  border-radius: 0.5rem;
+}
+.b-color a:hover,
+.text-col {
+  color: #6f42c1 !important;
+}
+.b-color {
+  padding-left: 0.5rem !important;
+}
+.btn-outline-primary {
+  border-color: #6f42c1 !important;
+}
+.btn-outline-primary:hover {
+  background-color: #e2d9f3 !important;
+  border-radius: 0.25rem;
+}
+.active {
+  color: #6f42c1 !important;
+  background-color: #e2d9f3 !important;
+}
+a:first-child {
+  border-radius: 0.5rem !important;
+}
+.btn.btn-rounded {
+  border-radius: 50px;
+}
+.btn-save {
+  background-color: #6f42c1 !important;
+  color: aliceblue !important;
+  width: 7.245rem !important;
+  margin-right: 0.25rem !important;
+}
+.email-input {
+  width: 95% !important;
+}
