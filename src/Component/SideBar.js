@@ -8,10 +8,10 @@ const SideBar = () => {
         <li className="nav-item  m-0">
           <a
             href="/#"
-            className="nav-link active mb-1 rounded-3  ps-2"
+            className="nav-link active mb-1 rounded-3 "
             aria-current="page"
           >
-            Profile
+            <span className="ps-1">Profile</span>
           </a>
         </li>
         <li className="nav-item b-color p-0">
