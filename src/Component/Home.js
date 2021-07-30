@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Container, Row } from "react-bootstrap";
+import { Row } from "react-bootstrap";
 import SideBar from "./SideBar";
 import man from "./image/man.png";
 import "../App.css";
